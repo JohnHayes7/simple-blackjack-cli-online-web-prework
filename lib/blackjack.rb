@@ -39,8 +39,8 @@ def hit?(total)
   #elsif get_user_input != "h" || "s"
   #invalid_command
   #prompt_user
-  #end
-  #return total
+  end
+  return total
 end
 
 def invalid_command
