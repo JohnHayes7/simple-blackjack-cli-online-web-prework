@@ -33,8 +33,8 @@ def hit?(total)
   prompt_user
   
   
-  #if get_user_input == "h"
-   # total += deal_card
+  if get_user_input == "h"
+   total += deal_card
   #elsif get_user_input == "s"
   #elsif get_user_input != "h" || "s"
   #invalid_command
